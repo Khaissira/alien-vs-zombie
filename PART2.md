@@ -10,42 +10,34 @@ Please provide the YouTube link to your [Video Demo](https://youtube.com).
 
 List all the features completed.
 
-1. Cool Feature #1
-2. Cool Feature #2
-3. *add more*
+1. Game board
+2. Game characters and object
+3. Alien and Zombie movement and behaviour
 
 ### To Do
 
 List all the features not yet done. Remove this section if there is no incomplete requirements.
 
-1. Cool Feature #1
-2. *add more*
+1. make the game to interact, as such to run the game.
 
 ## Additional Features
 
-Describe the additional features that has been implemented.
-
 ## Contributions
 
-List down the contribution of each group members.
+### NOR KHAISSIRA BINTI KHAIRUDDIN
 
-For example:
+1. Randomly generate game board
+2. Implemented the game objects
 
-### Tony Stark
+### DIVYASHREE A/P SELVANYGAM
 
-1. Randomly generate game board.
-2. *add more*
+1. Alien and Zombie movement and attack behaviour
+2. User manual
 
-### Steve Rogers
+### NABILA NADIA BINTI MD ZAID
 
-1. Zombie movement and attack behaviour.
-2. *add more*
-
-### Dr. Strange
-
-1. Implement all game objects.
-2. *add more*
+1. Game control
+2. Random generation of all game chars attributes
 
 ## Problems Encountered & Solutions
-
-Describe the problems encountered and provide the solutions / plan for the solutions.
+Unable to make the code interact properly to make the game function. Editings should be done to the code for the game to run.
