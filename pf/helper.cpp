@@ -22,7 +22,8 @@ namespace pf
         #if defined(_WIN32)
             return std::system("pause");
         #elif defined(__linux__) || defined(__APPLE__)
-            return std::system(R"(read -p "Press any key to continue . . . " dummy)");
+            // return std::system(R"(read -p "Press any key to continue . . . " dummy)");
+			return 0;
         #endif
     }
 

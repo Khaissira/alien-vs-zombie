@@ -9,7 +9,7 @@ using namespace std;
 class Board
 {
 private:
-    vector<vector<char>> map_; // convention to put trailing underscore
+    vector< vector<char> > map_; // convention to put trailing underscore
     int row_, column_;         // to indicate private data
 public:
     void init(int row, int column);
@@ -149,7 +149,7 @@ void oddNumbers(int &a)
     do
     {
         cin >> a;
-        if (a & 2 != 0 && a != 1)
+        if (a && 2 != 0 && a != 1)
         {
             break;
         }
