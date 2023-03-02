@@ -28,6 +28,7 @@ List all the features not yet done. Remove this section if there is no incomplet
 
 1. Randomly generate game board
 2. Implemented the game objects
+3. Move Alien in game board
 
 ### DIVYASHREE A/P SELVANYGAM
 
